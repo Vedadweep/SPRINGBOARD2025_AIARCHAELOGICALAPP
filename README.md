@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏛️ HeritageLens AI
 
 A comprehensive Streamlit web application for detecting and analyzing heritage sites, archaeological structures, and cultural landmarks using advanced YOLOv11 deep learning technology.
